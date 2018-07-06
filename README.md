@@ -1,1 +1,1 @@
-# Map
+# Google map using Wordpress
